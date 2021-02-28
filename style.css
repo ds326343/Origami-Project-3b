@@ -1,0 +1,45 @@
+.heading{
+    display:flex;
+    text-align: center;
+    background-color: darkturquoise;
+    color: black;
+    padding-top:15px;
+    justify-content: center;
+}
+
+.item{
+    display:flex; 
+    justify-content: space-evenly;
+    border-right: blueviolet;
+    border-width: 100px;
+    border-color: blueviolet;
+}
+
+.video{
+    justify-content: center;
+    text-align: center;
+    font:28;
+    background-color: deepskyblue;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
